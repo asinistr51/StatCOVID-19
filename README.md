@@ -8,5 +8,4 @@
 
 1) Привественное сообщение и краткое описание функционала:
 
-![pic_1](./pics/1.jpg)
-<img src="./pics/1.jpg" alt="drawing" width="200"/>
+<img src="./pics/1.jpg" alt="drawing" width="350"/>
