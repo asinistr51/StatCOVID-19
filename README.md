@@ -9,4 +9,4 @@
 1) Привественное сообщение и краткое описание функционала:
 
 ![pic_1](./pics/1.jpg)
-{:.some-css-class width="200"}
+<img src="./pics/1.jpg" alt="drawing" width="200"/>
