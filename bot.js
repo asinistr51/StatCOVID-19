@@ -9,7 +9,6 @@ const bot = new Telegraf(process.env.BOT_TOKEN);
 //Вывод всех стран списком
 bot.help((ctx) => ctx.reply(COUNTRIES_list));
 
-//Приветствие
 bot.start((ctx) =>
   ctx.reply(
     `
